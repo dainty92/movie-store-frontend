@@ -41,7 +41,7 @@ Set the necessary environment variables, such as the MongoDB connection URL.
     ```
 
 5. Access the app in your web browser:
-Open your web browser and navigate to http://localhost:3000 to use the Movie Store App.
+Open your web browser and navigate to https://movie-store-app.netlify.app/ to use the Movie Store App.
 
 ## Contributing
 
